@@ -1,5 +1,5 @@
-# Final-Project
-Este es mi proyecto final realizado para el curso de Python en Tokio School
+
+Proyecto final para la formación en Tokio School.
 
 Nos han solicitado una aplicación de escritorio la cual se utilizará para el manejo de una farmacia (administración, ventas y pagos) Esta debe contar con un inicio de sesión mediante el cual se podrá acceder, según el usuario, a distintas funcionalidades.
 
